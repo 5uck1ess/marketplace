@@ -16,8 +16,8 @@
         "name": "5uck1ess"
       },
       "source": {
-        "source": "github",
-        "repo": "5uck1ess/devkit"
+        "source": "url",
+        "url": "https://github.com/5uck1ess/devkit.git"
       }
     }
   ]
