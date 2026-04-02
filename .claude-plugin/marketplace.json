@@ -1,0 +1,21 @@
+{
+  "name": "5uck1ess-plugins",
+  "owner": {
+    "name": "5uck1ess"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by 5uck1ess — devkit, and more to come",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "devkit",
+      "description": "Deterministic workflows, multi-agent consensus, improvement loops, and safety guardrails for Claude Code",
+      "version": "1.2.0",
+      "author": {
+        "name": "5uck1ess"
+      },
+      "source": "github:5uck1ess/devkit"
+    }
+  ]
+}
