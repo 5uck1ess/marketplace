@@ -15,7 +15,10 @@
       "author": {
         "name": "5uck1ess"
       },
-      "source": "github:5uck1ess/devkit"
+      "source": {
+        "source": "github",
+        "repo": "5uck1ess/devkit"
+      }
     }
   ]
 }
