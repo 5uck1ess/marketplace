@@ -6,14 +6,14 @@ Claude Code plugin marketplace.
 
 | Plugin | Description | Install |
 |--------|-------------|---------|
-| [devkit](https://github.com/5uck1ess/devkit) | Workflows, multi-agent consensus, improvement loops, safety guardrails | `/plugin install devkit@5uck1ess-plugins` |
+| [devkit](https://github.com/5uck1ess/devkit) | Workflows, multi-agent consensus, improvement loops, safety guardrails, RTK token optimization | `/plugin install devkit@5uck1ess-plugins` |
 
 ## Setup
 
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add 5uck1ess/marketplace
+/plugin marketplace add https://github.com/5uck1ess/marketplace.git
 ```
 
 Then install any plugin:
@@ -21,3 +21,8 @@ Then install any plugin:
 ```
 /plugin install devkit@5uck1ess-plugins
 ```
+
+> **Note:** If you get SSH errors during install, run this once to force HTTPS:
+> ```bash
+> git config --global url."https://github.com/".insteadOf "git@github.com:"
+> ```
