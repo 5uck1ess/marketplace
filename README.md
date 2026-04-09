@@ -13,7 +13,7 @@ Claude Code plugin marketplace.
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add https://github.com/5uck1ess/marketplace.git
+/plugin marketplace add 5uck1ess/marketplace
 ```
 
 Then install any plugin:
