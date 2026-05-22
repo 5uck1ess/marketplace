@@ -6,7 +6,8 @@ Claude Code plugin marketplace.
 
 | Plugin | Description | Install |
 |--------|-------------|---------|
-| [devkit](https://github.com/5uck1ess/devkit) | Workflows, multi-agent consensus, improvement loops, safety guardrails, RTK token optimization | `/plugin install devkit@5uck1ess-plugins` |
+| [devkit](https://github.com/5uck1ess/devkit) | Deterministic workflows, multi-agent consensus, improvement loops, and safety guardrails for Claude Code | `/plugin install devkit@5uck1ess-plugins` |
+| [agy](https://github.com/5uck1ess/agy-plugin-cc) | Delegate code review, debugging, and analysis to Google's AGY (Antigravity CLI) from Claude Code | `/plugin install agy@5uck1ess-plugins` |
 
 ## Setup
 
