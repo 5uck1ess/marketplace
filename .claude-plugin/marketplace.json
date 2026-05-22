@@ -18,6 +18,17 @@
         "source": "url",
         "url": "https://github.com/5uck1ess/devkit.git"
       }
+    },
+    {
+      "name": "agy",
+      "description": "Delegate code review, debugging, and analysis to Google's AGY (Antigravity CLI) from Claude Code. Drop-in non-Claude reviewer for devkit's tri-review and other multi-model workflows.",
+      "author": {
+        "name": "5uck1ess"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/5uck1ess/agy-plugin-cc.git"
+      }
     }
   ]
 }
